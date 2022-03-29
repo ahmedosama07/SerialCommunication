@@ -1,0 +1,26 @@
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+D:\Downloads\Compressed\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
